@@ -50,6 +50,8 @@
 
 ## Certifications
 <img align="left" alt="Udemy" width="36px" src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Symbol.png"/> Data Science A-Z
+<img align="left" alt="Udemy" width="36px" src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Symbol.png"/> Graphic Design Masterclass
+
 
 [website]: https://github.com/Defactor213
 [youtube]: https://youtube.com/playlist?list=PLcL0lhQRK0V_IWGtjSBC4hMx1aiOmO2Zi
