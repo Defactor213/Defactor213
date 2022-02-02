@@ -1,6 +1,7 @@
 # Hello there! I'm Eric Li - aka Defactor213 :wave:
 
 ## I am a year 2 Information Systems student at Singapore Management Univeristy (SMU)
+<!-- emotes are from list of possible emotes, just google markdown emojis  -->
 - :book: I'm currently learning Flask, Machine learning, and Enterprise solutions support
 - :computer: I'm looking to collaborate with other students and self-taught programmers
 - :dart: 2022 Goals: Contribute to a open-source project 
@@ -9,6 +10,7 @@
 
 
 ### Connect with me:
+<!-- Icons from super.so/icon , links are at bottom of page -->
 [<img align="left" alt="EricLi | Website" width="24px" src="https://super.so/icon/light/github.svg" />][website]
 [<img align="left" alt="EricLi | YouTube" width="24px" src="https://super.so/icon/light/youtube.svg" />][youtube]
 [<img align="left" alt="EricLi | LinkedIn" width="24px" src="https://super.so/icon/light/linkedin.svg" />][linkedin]
@@ -19,7 +21,7 @@
 ## <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> Languages, Libraries and skills:
 
 ### Languages
-
+<!-- for images, just search for the lang/lib on github, open the image and use that link  -->
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"/>
