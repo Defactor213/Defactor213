@@ -50,6 +50,7 @@
 
 ## Certifications
 <img align="left" alt="Udemy" width="36px" src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Symbol.png"/> Data Science A-Z
+</br>
 <img align="left" alt="Udemy" width="36px" src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Symbol.png"/> Graphic Design Masterclass
 
 
