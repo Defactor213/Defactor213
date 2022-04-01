@@ -4,7 +4,7 @@
 <!-- emotes are from list of possible emotes, just google markdown emojis  -->
 - :book: I'm currently learning Flask, Machine learning, and Enterprise solutions support
 - :computer: I'm looking to collaborate with other students and self-taught programmers
-- :dart: 2022 Goals: Contribute to a open-source project 
+- :dart: 2022 Goals: Develop a portfolio website
 - :bento:My hobbies: Anime, Kickboxing, Cooking 
 - :chart_with_upwards_trend: Skills: Software development, full-stack development, data analysis 
 
