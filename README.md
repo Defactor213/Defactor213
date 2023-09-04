@@ -1,9 +1,9 @@
 # Hello there! I'm Eric Li - Defactor213 - :wave:
 
-## I am a year 3 Information Systems student at Singapore Management Univeristy (SMU)
+## I am a year 4 Information Systems student at Singapore Management Univeristy (SMU)
 <!-- emotes are from list of possible emotes, just google markdown emojis  -->
 - :computer: I'm looking to collaborate with other students and self-taught programmers
-- :dart: 2023 Goals: Develop a portfolio website
+- :dart: 2023 Goals: Develop a portfolio website, find a fulltime career as a software developer
 - :bento:My hobbies: Anime, Kickboxing, Cooking 
 - :chart_with_upwards_trend: Skills: Software development, full-stack development, data analysis 
 
